@@ -17,11 +17,11 @@
 - website optimization
 
 ## Guides
-- [How to evaluate top white label seo companies](https://local-business-guides.github.io/whitelabelseofirm-com/top-white-label-seo-companies/): Compare top white label seo companies with practical questions about approvals, content quality, reporting, and client ownership.
+- [White label seo company questions to ask before hiring](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-company/): Evaluate a white label seo company with questions about account ownership, communication, reporting and a practical first assignment.
 - [White Label SEO Questions to Ask Before Hiring](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo/): White Label SEO explained for agencies across the United States, with practical steps for planning assignments and reviewing client work.
 - [Finding the best white label seo Partner for Your Agency](https://local-business-guides.github.io/whitelabelseofirm-com/best-white-label-seo/): Compare the best white label seo options across the United States with questions about revisions, reporting, and ownership before you hire.
 - [White label seo services your agency can explain](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-services/): Explore white label seo services with a practical checklist for defining deliverables, preparing access and reviewing client work.
-- [White label seo company questions to ask before hiring](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-company/): Evaluate a white label seo company with questions about account ownership, communication, reporting and a practical first assignment.
+- [How to evaluate top white label seo companies](https://local-business-guides.github.io/whitelabelseofirm-com/top-white-label-seo-companies/): Compare top white label seo companies with practical questions about approvals, content quality, reporting, and client ownership.
 - [Planning affordable white label seo for your agency](https://local-business-guides.github.io/whitelabelseofirm-com/affordable-white-label-seo/): Plan affordable white label seo around clear priorities, defined costs, and a workload your agency can manage.
 - [Understand white label seo pricing Before You Commit](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-pricing/): Compare white label seo pricing with a practical checklist for scope, approval steps, and agency margins across the United States.
 - [Choose a white label seo provider With Clear Expectations](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-provider/): Choose a white label seo provider with practical questions about handoffs, content review, and website access for agencies nationwide.
@@ -29,6 +29,7 @@
 - [A practical guide to white label seo for small business](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-for-small-business/): Understand white label seo for small business, prepare a useful brief, and choose work that fits your website's most pressing needs.
 
 ## Newsroom
+- [whitelabelseofirm.com Releases White Label SEO Company Guide and Related Media](https://local-business-guides.github.io/whitelabelseofirm-com/news/2026-10-21-whitelabelseofirm-com-releases-white-label-seo-com/): whitelabelseofirm.com released a white label SEO company guide with a YouTube video, podcast, SoundCloud audio and website article. (2026-10-21)
 - [whitelabelseofirm.com Releases Guide and Media on Top White Label SEO Companies](https://local-business-guides.github.io/whitelabelseofirm-com/news/2026-10-19-whitelabelseofirm-com-releases-guide-and-media-on-/): whitelabelseofirm.com released a guide, website article, video, podcast and SoundCloud audio on top white label SEO companies. (2026-10-19)
 - [whitelabelseofirm.com Adds White Label SEO Resources in Written, Video and Audio Formats](https://local-business-guides.github.io/whitelabelseofirm-com/news/2026-10-15-whitelabelseofirm-com-adds-white-label-seo-resourc/): whitelabelseofirm.com has released a White Label SEO guide with related YouTube, podcast, SoundCloud and website content. (2026-10-15)
 
@@ -40,4 +41,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/whitelabelseofirm-com/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/whitelabelseofirm-com/news/rss.xml)
-- [Main resource site](https://white-label-seo-firm.localwebsites.chatgpt.site)
+- [Main resource site](https://white-label-seo-firm.localwebsites.chatgpt.site/news/2026-10-15-whitelabelseofirm-com-adds-written-video-and-audio/)
