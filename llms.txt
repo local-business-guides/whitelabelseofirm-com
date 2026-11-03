@@ -30,6 +30,7 @@
 - [A practical guide to white label seo for small business](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-for-small-business/): Understand white label seo for small business, prepare a useful brief, and choose work that fits your website's most pressing needs.
 
 ## Newsroom
+- [whitelabelseofirm.com Publishes New Information on GMB Posting](https://local-business-guides.github.io/whitelabelseofirm-com/news/2026-11-03-whitelabelseofirm-com-publishes-new-information-on/): whitelabelseofirm.com published new information about GMB posting this week in an article, YouTube video, podcast episode and SoundCloud audio. (2026-11-03)
 - [whitelabelseofirm.com Shares New GMB Optimization Material](https://local-business-guides.github.io/whitelabelseofirm-com/news/2026-11-01-whitelabelseofirm-com-shares-new-gmb-optimization/): whitelabelseofirm.com has published GMB optimization information as a website article, YouTube video, podcast episode and SoundCloud audio. (2026-11-01)
 - [whitelabelseofirm.com Publishes Guide to Affordable White Label SEO](https://local-business-guides.github.io/whitelabelseofirm-com/news/2026-10-28-whitelabelseofirm-com-publishes-guide-to-affordabl/): whitelabelseofirm.com released a guide to affordable white label SEO, with related video and audio content for agencies. (2026-10-28)
 - [whitelabelseofirm.com Publishes Guide to Professional White Label SEO](https://local-business-guides.github.io/whitelabelseofirm-com/news/2026-10-25-whitelabelseofirm-com-publishes-guide-to-professio/): whitelabelseofirm.com has released a guide to professional white label SEO, with a video, podcast episode, audio version and website article. (2026-10-25)
@@ -45,4 +46,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/whitelabelseofirm-com/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/whitelabelseofirm-com/news/rss.xml)
-- [Main resource site](https://white-label-seo-firm.localwebsites.chatgpt.site/news/2026-10-15-whitelabelseofirm-com-adds-written-video-and-audio/)
+- [Main resource site](https://white-label-seo-firm.localwebsites.chatgpt.site/news/2026-10-19-whitelabelseofirm-com-releases-guide-on-comparing-/)
