@@ -17,6 +17,7 @@
 - website optimization
 
 ## Guides
+- [Schema Creation for White Label SEO Agencies](https://local-business-guides.github.io/whitelabelseofirm-com/schema-creation/): Schema creation helps agencies deliver clearer site details. Get affordable white label support for clients nationwide from whitelabelseofirm.com today.
 - [White Label SEO Questions to Ask Before Hiring](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo/): White Label SEO explained for agencies across the United States, with practical steps for planning assignments and reviewing client work.
 - [Finding the best white label seo Partner for Your Agency](https://local-business-guides.github.io/whitelabelseofirm-com/best-white-label-seo/): Compare the best white label seo options across the United States with questions about revisions, reporting, and ownership before you hire.
 - [White label seo services your agency can explain](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-services/): Explore white label seo services with a practical checklist for defining deliverables, preparing access and reviewing client work.
@@ -46,4 +47,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/whitelabelseofirm-com/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/whitelabelseofirm-com/news/rss.xml)
-- [Main resource site](https://white-label-seo-firm.localwebsites.chatgpt.site/news/2026-10-19-whitelabelseofirm-com-releases-guide-on-comparing-/)
+- [Main resource site](https://white-label-seo-firm.localwebsites.chatgpt.site/news/2026-10-27-whitelabelseofirm-com-publishes-guide-to-affordabl/)
