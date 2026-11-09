@@ -17,7 +17,6 @@
 - website optimization
 
 ## Guides
-- [Schema Creation for White Label SEO Agencies](https://local-business-guides.github.io/whitelabelseofirm-com/schema-creation/): Schema creation helps agencies deliver clearer site details. Get affordable white label support for clients nationwide from whitelabelseofirm.com today.
 - [White Label SEO Questions to Ask Before Hiring](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo/): White Label SEO explained for agencies across the United States, with practical steps for planning assignments and reviewing client work.
 - [Finding the best white label seo Partner for Your Agency](https://local-business-guides.github.io/whitelabelseofirm-com/best-white-label-seo/): Compare the best white label seo options across the United States with questions about revisions, reporting, and ownership before you hire.
 - [White label seo services your agency can explain](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-services/): Explore white label seo services with a practical checklist for defining deliverables, preparing access and reviewing client work.
@@ -27,10 +26,12 @@
 - [Understand white label seo pricing Before You Commit](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-pricing/): Compare white label seo pricing with a practical checklist for scope, approval steps, and agency margins across the United States.
 - [Choose a white label seo provider With Clear Expectations](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-provider/): Choose a white label seo provider with practical questions about handoffs, content review, and website access for agencies nationwide.
 - [Choosing professional white label seo for your agency](https://local-business-guides.github.io/whitelabelseofirm-com/professional-white-label-seo/): Compare professional white label seo providers with practical questions about approvals, reporting, and protecting your client relationships.
+- [Schema Creation for White Label SEO Agencies](https://local-business-guides.github.io/whitelabelseofirm-com/schema-creation/): Schema creation helps agencies deliver clearer site details. Get affordable white label support for clients nationwide from whitelabelseofirm.com today.
 - [Content writing support for SEO agencies](https://local-business-guides.github.io/whitelabelseofirm-com/content-writing/): Content writing that helps agencies deliver useful SEO pages with clear review steps and flexible white-label support.
 - [A practical guide to white label seo for small business](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-for-small-business/): Understand white label seo for small business, prepare a useful brief, and choose work that fits your website's most pressing needs.
 
 ## Newsroom
+- [whitelabelseofirm.com Shares New Information on Press Release Distribution](https://local-business-guides.github.io/whitelabelseofirm-com/news/2026-11-09-whitelabelseofirm-com-shares-new-information-on/): whitelabelseofirm.com published information about press release distribution in an article, YouTube video, podcast episode and SoundCloud audio. (2026-11-09)
 - [whitelabelseofirm.com Publishes New Information on GMB Posting](https://local-business-guides.github.io/whitelabelseofirm-com/news/2026-11-03-whitelabelseofirm-com-publishes-new-information-on/): whitelabelseofirm.com published new information about GMB posting this week in an article, YouTube video, podcast episode and SoundCloud audio. (2026-11-03)
 - [whitelabelseofirm.com Shares New GMB Optimization Material](https://local-business-guides.github.io/whitelabelseofirm-com/news/2026-11-01-whitelabelseofirm-com-shares-new-gmb-optimization/): whitelabelseofirm.com has published GMB optimization information as a website article, YouTube video, podcast episode and SoundCloud audio. (2026-11-01)
 - [whitelabelseofirm.com Publishes Guide to Affordable White Label SEO](https://local-business-guides.github.io/whitelabelseofirm-com/news/2026-10-28-whitelabelseofirm-com-publishes-guide-to-affordabl/): whitelabelseofirm.com released a guide to affordable white label SEO, with related video and audio content for agencies. (2026-10-28)
@@ -47,4 +48,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/whitelabelseofirm-com/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/whitelabelseofirm-com/news/rss.xml)
-- [Main resource site](https://white-label-seo-firm.localwebsites.chatgpt.site/news/2026-10-27-whitelabelseofirm-com-publishes-guide-to-affordabl/)
+- [Main resource site](https://white-label-seo-firm.localwebsites.chatgpt.site/news/2026-11-03-whitelabelseofirm-com-publishes-new-guide-to-gmb-posting/)
