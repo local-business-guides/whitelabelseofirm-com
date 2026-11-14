@@ -17,6 +17,7 @@
 - website optimization
 
 ## Guides
+- [White label SEO online for agency partners](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-online/): White label seo online support for a branded SEO offer, clear dashboard visibility, and ethical work. Contact whitelabelseofirm.com to discuss fit.
 - [White Label SEO Questions to Ask Before Hiring](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo/): White Label SEO explained for agencies across the United States, with practical steps for planning assignments and reviewing client work.
 - [Finding the best white label seo Partner for Your Agency](https://local-business-guides.github.io/whitelabelseofirm-com/best-white-label-seo/): Compare the best white label seo options across the United States with questions about revisions, reporting, and ownership before you hire.
 - [White label seo services your agency can explain](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-services/): Explore white label seo services with a practical checklist for defining deliverables, preparing access and reviewing client work.
@@ -48,4 +49,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/whitelabelseofirm-com/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/whitelabelseofirm-com/news/rss.xml)
-- [Main resource site](https://white-label-seo-firm.localwebsites.chatgpt.site/news/2026-11-03-whitelabelseofirm-com-publishes-new-guide-to-gmb-posting/)
+- [Main resource site](https://white-label-seo-firm.localwebsites.chatgpt.site/schema-creation/)
