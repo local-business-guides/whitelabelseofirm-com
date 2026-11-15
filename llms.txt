@@ -17,7 +17,7 @@
 - website optimization
 
 ## Guides
-- [White label SEO online for agency partners](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-online/): White label seo online support for a branded SEO offer, clear dashboard visibility, and ethical work. Contact whitelabelseofirm.com to discuss fit.
+- [Outsourced White Label SEO for Growing Agencies](https://local-business-guides.github.io/whitelabelseofirm-com/outsourced-white-label-seo/): Outsourced white label SEO helps agencies add capacity with ethical support and clear workflows. Contact whitelabelseofirm.com to discuss your needs today.
 - [White Label SEO Questions to Ask Before Hiring](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo/): White Label SEO explained for agencies across the United States, with practical steps for planning assignments and reviewing client work.
 - [Finding the best white label seo Partner for Your Agency](https://local-business-guides.github.io/whitelabelseofirm-com/best-white-label-seo/): Compare the best white label seo options across the United States with questions about revisions, reporting, and ownership before you hire.
 - [White label seo services your agency can explain](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-services/): Explore white label seo services with a practical checklist for defining deliverables, preparing access and reviewing client work.
@@ -27,6 +27,7 @@
 - [Understand white label seo pricing Before You Commit](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-pricing/): Compare white label seo pricing with a practical checklist for scope, approval steps, and agency margins across the United States.
 - [Choose a white label seo provider With Clear Expectations](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-provider/): Choose a white label seo provider with practical questions about handoffs, content review, and website access for agencies nationwide.
 - [Choosing professional white label seo for your agency](https://local-business-guides.github.io/whitelabelseofirm-com/professional-white-label-seo/): Compare professional white label seo providers with practical questions about approvals, reporting, and protecting your client relationships.
+- [White label SEO online for agency partners](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-online/): White label seo online support for a branded SEO offer, clear dashboard visibility, and ethical work. Contact whitelabelseofirm.com to discuss fit.
 - [Schema Creation for White Label SEO Agencies](https://local-business-guides.github.io/whitelabelseofirm-com/schema-creation/): Schema creation helps agencies deliver clearer site details. Get affordable white label support for clients nationwide from whitelabelseofirm.com today.
 - [Content writing support for SEO agencies](https://local-business-guides.github.io/whitelabelseofirm-com/content-writing/): Content writing that helps agencies deliver useful SEO pages with clear review steps and flexible white-label support.
 - [A practical guide to white label seo for small business](https://local-business-guides.github.io/whitelabelseofirm-com/white-label-seo-for-small-business/): Understand white label seo for small business, prepare a useful brief, and choose work that fits your website's most pressing needs.
@@ -49,4 +50,4 @@
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/whitelabelseofirm-com/sitemap.xml)
 - [News RSS feed](https://local-business-guides.github.io/whitelabelseofirm-com/news/rss.xml)
-- [Main resource site](https://white-label-seo-firm.localwebsites.chatgpt.site/schema-creation/)
+- [Main resource site](https://white-label-seo-firm.localwebsites.chatgpt.site/white-label-seo-online/)
